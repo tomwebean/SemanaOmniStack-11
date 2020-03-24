@@ -22,7 +22,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - :u6709: **ReactJS**
 - :six_pointed_star:	**React Native**
 
-## :open_file_folder: Primeiro Dia: (https://github.com/tomwebean/SemanaOmniStack-11/blob/master/img/project.png)
+## [:open_file_folder:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/img/project.png) Primeiro Dia:
 - Apresentado a Aplicação (Be The Hero)
 - Configurado o ambiente de desenvolvimento
 - Explicado sobre Back-end e Front-end
