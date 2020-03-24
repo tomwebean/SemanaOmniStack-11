@@ -32,7 +32,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Criado o projeto com ReactJS
 - Explicado sobre React Native & Expo
 
-## :open_file_folder: Segundo Dia:
+## [:open_file_folder: Segundo Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Segundo%20Dia.md)
 - Node.js & Express
 - Configurando Nodemon
 - Utilizando o Insominia
