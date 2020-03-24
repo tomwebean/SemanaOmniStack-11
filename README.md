@@ -3,7 +3,7 @@
   </p>
 <br> 
 
-<p align="center">Este repositório contém o código apresentado na Semana Omnistack 11.0.</p> 
+<p align="center">Este repositório contém o código apresentado na Semana Omnistack 11.0</p> 
 
 <p align="center"> 
   <a href="https://opensource.org/licenses/MIT"> 
@@ -12,8 +12,7 @@
 </p>   
 
 ## 📝 Nota:
-Todos os dias esse arquivo será atualizado contendo os principais pontos abordados para a construção da aplicação Be The Hero.<br>
-Clicando nos "Dias" abrirá as intruções ministradas em cada dia para a criação da aplicação.
+Todos os dias esse arquivo será atualizado contendo os principais pontos abordados para a construção da aplicação "Be The Hero". Clicando nos "Dias" abrirá as intruções ministradas em cada dia para a criação da aplicação.
 
 ## :floppy_disk: Tecnologias: 
 As tecnologias utilizadas na Semana OmniStack 11
