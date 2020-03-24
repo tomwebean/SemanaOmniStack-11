@@ -12,15 +12,16 @@
 </p>   
 
 ## 📝 Nota:
-No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
+Todos os dias esse arquivo será atualizado contendo as todas instruções e explicações mais importantes, de forma simples e direta..
 
 ## :floppy_disk: Tecnologias: 
 [//]: # (Add the features of your project here:) 
 As mais recentes ferramentas utilizadas no LaunchBase 
 
 - :u6708: **Javascript**
-- :u7533: **HTML5**
-- :u6709: **CSS**
+- :recycle: **Node.js**
+- :u6709: **ReactJS**
+- :u7a7a:	**React Native**
 
 ## :open_file_folder: Módulo 01:
 - Introdução a programação WEB
