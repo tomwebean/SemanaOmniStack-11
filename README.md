@@ -13,6 +13,7 @@
 
 ## 📝 Nota:
 Todos os dias esse arquivo será atualizado contendo os principais pontos abordados para a construção da aplicação Be The Hero.
+Clicando nos "Dias" abrirá as intruções para a criação da aplicação.
 
 ## :floppy_disk: Tecnologias: 
 As tecnologias utilizadas na Semana OmniStack 11
