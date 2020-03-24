@@ -12,7 +12,7 @@
 </p>   
 
 ## 📝 Nota:
-Todos os dias esse arquivo será atualizado contendo as todas instruções e explicações mais importantes, de forma simples e direta..
+Todos os dias esse arquivo será atualizado contendo os principais pontos abordados para a construção da aplicação.
 
 ## :floppy_disk: Tecnologias: 
 As tecnologias utilizadas na Semana OmniStack 11
