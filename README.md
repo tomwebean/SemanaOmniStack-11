@@ -21,7 +21,7 @@ As mais recentes ferramentas utilizadas no LaunchBase
 - :u6708: **Javascript**
 - :recycle: **Node.js**
 - :u6709: **ReactJS**
-- :u7a7a:	**React Native**
+- :six_pointed_star:	**React Native**
 
 ## :open_file_folder: Módulo 01:
 - Introdução a programação WEB
