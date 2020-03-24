@@ -12,7 +12,7 @@
 </p>   
 
 ## 📝 Nota:
-Todos os dias esse arquivo será atualizado contendo os principais pontos abordados para a construção da aplicação "Be The Hero".<br>
+Todos os dias esse arquivo será atualizado contendo os principais pontos abordados para a construção da aplicação  "Be The Hero".<br>
 **OBS:** Clicando nos "Dias" abrirá as intruções ministradas em cada dia para a criação da aplicação.
 
 ## :floppy_disk: Tecnologias: 
