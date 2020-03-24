@@ -16,19 +16,21 @@ Todos os dias esse arquivo será atualizado contendo as todas instruções e exp
 
 ## :floppy_disk: Tecnologias: 
 [//]: # (Add the features of your project here:) 
-As mais recentes ferramentas utilizadas no LaunchBase 
+As tecnologias utilizadas na Semana OmniStack 11
 
 - :u6708: **Javascript**
 - :recycle: **Node.js**
 - :u6709: **ReactJS**
 - :six_pointed_star:	**React Native**
 
-## :open_file_folder: Módulo 01:
-- Introdução a programação WEB
-- Iniciando no Front-end
-- Construindo o Foodfy
-- Iniciando no Back-end
-- Refatorando Foodfy
+## :open_file_folder: Primeiro Dia:
+- Apresentado a Aplicação (Be The Hero)
+- Configurado o ambiente de desenvolvimento
+- Explicado sobre Back-end e Front-end
+- Criado o projeto com Node.js
+- Explicado sobre React & SPA
+- Criado o projeto com ReactJS
+- Explicado sobre React Native & Expo
 
 ## :page_with_curl: Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
