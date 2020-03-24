@@ -31,5 +31,17 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Criado o projeto com ReactJS
 - Explicado sobre React Native & Expo
 
+## :open_file_folder: Segundo Dia:
+- Node.js & Express
+- Configurando Nodemon
+- Utilizando o Insominia
+- Diferenças entre bancos de dados
+- Configurando banco de dados
+- Pensando nas entidades e funcionalidades
+- Construção do back-end
+- Adicionando módulo CORS
+- Enviando back-end ao Github
+
+
 ## :page_with_curl: Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
