@@ -43,6 +43,8 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Adicionando módulo CORS
 - Enviando back-end ao Github
 
+## [:open_file_folder: Segundo Dia:]
+
 
 ## :page_with_curl: Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
