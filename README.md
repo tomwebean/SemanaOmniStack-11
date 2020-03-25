@@ -43,7 +43,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Adicionando módulo CORS
 - Enviando back-end ao Github
 
-## [:open_file_folder: Segundo Dia:]
+## [:open_file_folder: Segundo Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Terceiro%20Dia.md)
 
 
 ## :page_with_curl: Licença
