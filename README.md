@@ -44,7 +44,15 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Enviando back-end ao Github
 
 ## [:open_file_folder: Terceiro Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Terceiro%20Dia.md)
-
+- Limpando a estrutura
+- Conceitos do React
+- Página de login
+- Configurando rotas
+- Cadastro de ONG's
+- Listagem de casos
+- Cadastro de um novo caso
+- Conectando aplicação à API
+- Enviar projeto ao Github
 
 ## :page_with_curl: Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
