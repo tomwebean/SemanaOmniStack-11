@@ -54,5 +54,20 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Conectando aplicação à API
 - Enviar projeto ao Github
 
+## [:open_file_folder: Quarto Dia:]()
+- Instalação do Expo
+- Criando projeto React Native
+- Executando o projeto
+- Diferenças para o ReactJS
+- Estrutura de pastas
+- Ícones e Splash Screen
+- Configurando navegação
+- Página de casos
+- Detalhe do caso
+- Abrindo WhatsApp e E-mail
+- Conexão com a API
+- Enviando o projeto ao Github
+
+
 ## :page_with_curl: Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
