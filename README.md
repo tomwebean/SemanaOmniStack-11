@@ -54,7 +54,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Conectando aplicação à API
 - Enviar projeto ao Github
 
-## [:open_file_folder: Quarto Dia:]()
+## [:open_file_folder: Quarto Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Quarto%20Dia.md)
 - Instalação do Expo
 - Criando projeto React Native
 - Executando o projeto
