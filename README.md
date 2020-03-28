@@ -68,6 +68,9 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Conexão com a API
 - Enviando o projeto ao Github
 
+## [:open_file_folder: Quinto Dia:]()
+- Instalação do Expo
+
 
 ## :page_with_curl: Licença
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
