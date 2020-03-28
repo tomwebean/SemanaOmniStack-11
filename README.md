@@ -68,8 +68,8 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Conexão com a API
 - Enviando o projeto ao Github
 
-## [:open_file_folder: Quinto Dia:]()
-- Instalação do Expo
+## [:open_file_folder: Quinto Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Quinto%20Dia.md)
+- Adicionando validação
 
 
 ## :page_with_curl: Licença
