@@ -23,7 +23,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - :u6709: **ReactJS**
 - :six_pointed_star:	**React Native**
 
-## [:open_file_folder: Primeiro Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Primeiro%20Dia.md)
+## [:open_file_folder: Primeiro Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/1%C2%BA%20Dia.md)
 - Apresentado a Aplicação (Be The Hero)
 - Configurado o ambiente de desenvolvimento
 - Explicado sobre Back-end e Front-end
@@ -32,7 +32,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Criado o projeto com ReactJS
 - Explicado sobre React Native & Expo
 
-## [:open_file_folder: Segundo Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Segundo%20Dia.md)
+## [:open_file_folder: Segundo Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/2%C2%BA%20Dia.md)
 - Node.js & Express
 - Configurando Nodemon
 - Utilizando o Insominia
@@ -43,7 +43,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Adicionando módulo CORS
 - Enviando back-end ao Github
 
-## [:open_file_folder: Terceiro Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Terceiro%20Dia.md)
+## [:open_file_folder: Terceiro Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/3%C2%BA%20Dia.md)
 - Limpando a estrutura
 - Conceitos do React
 - Página de login
@@ -54,7 +54,7 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Conectando aplicação à API
 - Enviar projeto ao Github
 
-## [:open_file_folder: Quarto Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Quarto%20Dia.md)
+## [:open_file_folder: Quarto Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/4%C2%BA%20Dia.md)
 - Instalação do Expo
 - Criando projeto React Native
 - Executando o projeto
@@ -68,8 +68,10 @@ As tecnologias utilizadas na Semana OmniStack 11
 - Conexão com a API
 - Enviando o projeto ao Github
 
-## [:open_file_folder: Quinto Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/Quinto%20Dia.md)
+## [:open_file_folder: Quinto Dia:](https://github.com/tomwebean/SemanaOmniStack-11/blob/master/5%C2%BA%20Dia.md)
 - Adicionando validação
+- Adicionando testes
+- Deploy
 
 
 ## :page_with_curl: Licença
